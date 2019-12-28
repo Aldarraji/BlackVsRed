@@ -4,7 +4,7 @@ Black Vs Red color box game for Android.
 
 ## Screenshots:
 Black Won!
-[](https://github.com/Aldarraji/BlackVsRed/blob/master/blk.jpg)
+![](https://github.com/Aldarraji/BlackVsRed/blob/master/blk.jpg)
 
 Red Won!
-[](https://github.com/Aldarraji/BlackVsRed/blob/master/red.jpg)
+![](https://github.com/Aldarraji/BlackVsRed/blob/master/red.jpg)
